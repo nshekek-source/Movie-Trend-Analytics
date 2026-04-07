@@ -2,7 +2,7 @@
 
 ## Dataset
 MovieLens Latest Small
-https://grouplens.org/datasets/movielens/ml-latest-small/
+https://grouplens.org/datasets/movielens/
 
 ## Tools Used
 - Python (pandas, matplotlib)
